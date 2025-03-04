@@ -1,0 +1,528 @@
+EventTypes,working,commuting,entertainment,home
+Speech,2.0,9.3493,17.0893,2.5862
+"Male speech, man speaking",0.0556,0.0616,0.5357,0.0
+"Female speech, woman speaking",0.0,0.0205,0.3214,0.0
+"Child speech, kid speaking",0.0,0.0103,0.0536,0.0
+Conversation,0.0,0.0205,0.0,0.0
+"Narration, monologue",0.0,0.0,0.0,0.0
+Babbling,0.0,0.0,0.0,0.0
+Speech synthesizer,0.0,0.0,0.0,0.0
+Shout,0.0,0.0,0.0,0.0
+Bellow,0.0,0.0,0.0,0.0
+Whoop,0.0,0.0,0.0,0.0
+Yell,0.0,0.0,0.0,0.0
+Battle cry,0.0,0.0,0.0,0.0
+Children shouting,0.0,0.0,0.0,0.0
+Screaming,0.0,0.0,0.0,0.0
+Whispering,0.0,0.0,0.0,0.0
+Laughter,0.0,0.0,0.0,0.0
+Baby laughter,0.0,0.0,0.0,0.0
+Giggle,0.0,0.0,0.0,0.0
+Snicker,0.0,0.0103,0.0,0.0
+Belly laugh,0.0,0.0,0.0,0.0
+"Chuckle, chortle",0.0,0.0205,0.0,0.0
+"Crying, sobbing",0.0,0.0,0.0,0.0
+"Baby cry, infant cry",0.0,0.0103,0.0,0.0
+Whimper,0.0,0.0205,0.0,0.0
+"Wail, moan",0.0,0.0,0.0,0.0
+Sigh,0.0556,0.0,0.0,0.0
+Singing,0.0,0.0,0.0,0.0
+Choir,0.0,0.0,0.0,0.0
+Yodeling,0.0,0.0,0.0,0.0
+Chant,0.0,0.0,0.0,0.0
+Mantra,0.0,0.0,0.0,0.0
+Male singing,0.0,0.0,0.0,0.0
+Female singing,0.0,0.0,0.0,0.0
+Child singing,0.0,0.0,0.0,0.0
+Synthetic singing,0.0,0.0,0.0,0.0
+Rapping,0.0,0.0,0.0,0.0
+Humming,0.0,0.0,0.0,0.0
+Groan,0.0,0.0,0.0,0.0
+Grunt,0.0,0.0,0.0,0.0
+Whistling,0.0,0.0,0.0,0.0517
+Breathing,0.0,0.0,0.0,0.0
+Wheeze,0.0,0.0,0.0,0.0
+Snoring,0.0,0.0,0.0,0.0
+Gasp,0.0,0.0,0.0,0.0
+Pant,0.0,0.0,0.0,0.0
+Snort,0.1667,0.0411,0.1071,0.0517
+Cough,0.0556,0.0103,0.0,0.0
+Throat clearing,0.0,0.0205,0.0536,0.0
+Sneeze,0.0556,0.0,0.0,0.0
+Sniff,0.0,0.0,0.0,0.0
+Run,0.0,0.0616,0.0,0.0517
+Shuffle,0.0556,0.0103,0.0,0.0517
+"Walk, footsteps",0.2778,0.3288,0.0536,0.0517
+"Chewing, mastication",0.0556,0.0,0.0,0.0
+Biting,0.0,0.0,0.0,0.0
+Gargling,0.0,0.0,0.0,0.0
+Stomach rumble,0.0,0.0,0.0,0.0
+"Burping, eructation",0.0,0.0,0.0,0.0
+Hiccup,0.0,0.0,0.0,0.0
+Fart,0.0,0.0,0.0,0.0
+Hands,0.0,0.0,0.0,0.0
+Finger snapping,0.0,0.0,0.0,0.0
+Clapping,0.0,0.0,0.0,0.0
+"Heart sounds, heartbeat",0.0,0.0103,0.0,0.0
+Heart murmur,0.0,0.0,0.0,0.0
+Cheering,0.0,0.0,0.0,0.0
+Applause,0.0,0.0,0.0,0.0
+Chatter,0.0,0.0205,0.2143,0.0
+Crowd,0.0,0.0,0.0,0.0
+"Hubbub, speech noise, speech babble",0.0,0.0,0.0,0.0
+Children playing,0.0,0.0,0.0,0.0
+Animal,0.2778,0.0822,0.0536,0.4655
+"Domestic animals, pets",0.0556,0.0308,0.0,0.0517
+Dog,0.0,0.0103,0.0,0.0
+Bark,0.0,0.0,0.0,0.0
+Yip,0.0,0.0,0.0,0.0
+Howl,0.0,0.0,0.0,0.0
+Bow-wow,0.0,0.0205,0.0,0.0
+Growling,0.0,0.0,0.0,0.0
+Whimper (dog),0.0,0.0,0.0,0.0
+Cat,0.0,0.0103,0.0,0.0
+Purr,0.0,0.0,0.0,0.0
+Meow,0.0,0.0205,0.0,0.0
+Hiss,0.0,0.0103,0.0,0.0517
+Caterwaul,0.0,0.0,0.0,0.0
+"Livestock, farm animals, working animals",0.0,0.0,0.0,0.0
+Horse,0.0,0.0103,0.0,0.0
+Clip-clop,0.0,0.0822,0.0,0.0517
+"Neigh, whinny",0.0,0.0,0.0,0.0
+"Cattle, bovinae",0.0,0.0,0.0,0.0
+Moo,0.0,0.0,0.0,0.0
+Cowbell,0.0,0.0,0.0,0.0
+Pig,0.0,0.0,0.0,0.0
+Oink,0.0,0.0,0.0,0.0
+Goat,0.0,0.0,0.0,0.0
+Bleat,0.0,0.0,0.0,0.0
+Sheep,0.0,0.0,0.0,0.0
+Fowl,0.0,0.0,0.0,0.0
+"Chicken, rooster",0.0,0.0,0.0,0.0
+Cluck,0.0,0.0,0.0,0.0
+"Crowing, cock-a-doodle-doo",0.0,0.0,0.0,0.0
+Turkey,0.0,0.0,0.0,0.0
+Gobble,0.0,0.0,0.0,0.0
+Duck,0.0,0.0,0.0,0.0
+Quack,0.0,0.0,0.0,0.0
+Goose,0.0,0.0,0.0,0.0
+Honk,0.0,0.0,0.0,0.0
+Wild animals,0.0,0.0,0.0,0.0
+"Roaring cats (lions, tigers)",0.0,0.0,0.0,0.0
+Roar,0.0,0.0,0.0,0.0
+Bird,0.2222,0.3288,0.2143,0.3103
+"Bird vocalization, bird call, bird song",0.0,0.0,0.0,0.0
+"Chirp, tweet",0.0,0.0,0.0,0.0
+Squawk,0.0,0.0,0.0,0.0
+"Pigeon, dove",0.0,0.0103,0.0,0.0
+Coo,0.0,0.0,0.0,0.0
+Crow,0.0,0.0103,0.0,0.0
+Caw,0.0,0.0,0.0,0.0
+Owl,0.0,0.0,0.0,0.0
+Hoot,0.0,0.0,0.0,0.0
+"Bird flight, flapping wings",0.0,0.0,0.0,0.0
+"Canidae, dogs, wolves",0.0,0.0,0.0,0.0
+"Rodents, rats, mice",0.0,0.0,0.0,0.0
+Mouse,0.1667,0.0103,0.0,0.0
+Patter,0.0,0.0,0.0,0.0517
+Insect,0.0,0.0,0.0,0.0
+Cricket,0.0,0.0,0.0,0.0
+Mosquito,0.0,0.0,0.0,0.0
+"Fly, housefly",0.0,0.0,0.0,0.0
+Buzz,0.0556,0.0,0.0,0.0
+"Bee, wasp, etc.",0.0,0.0,0.0,0.0
+Frog,0.0,0.0,0.0,0.0
+Croak,0.0,0.0,0.0,0.0
+Snake,0.0,0.0,0.0536,0.2586
+Rattle,0.0,0.0,0.0,0.0
+Whale vocalization,0.0,0.0,0.0,0.0
+Music,0.5556,0.4418,8.1964,3.6207
+Musical instrument,0.0,0.0,0.0,0.0
+Plucked string instrument,0.0,0.0,0.0,0.0
+Guitar,0.0,0.0,0.0,0.0
+Electric guitar,0.0,0.0,0.0,0.0
+Bass guitar,0.0,0.0,0.0,0.0
+Acoustic guitar,0.0,0.0,0.0,0.0
+"Steel guitar, slide guitar",0.0,0.0,0.0,0.0
+Tapping (guitar technique),0.0,0.0,0.0,0.0
+Strum,0.0,0.0,0.0,0.0
+Banjo,0.0,0.0,0.0,0.0
+Sitar,0.0,0.0,0.0,0.0
+Mandolin,0.0,0.0,0.0,0.0
+Zither,0.0,0.0,0.0,0.0
+Ukulele,0.0,0.0,0.0,0.0
+Keyboard (musical),0.0,0.0,0.0,0.0
+Piano,0.0,0.0,0.0,0.0
+Electric piano,0.0,0.0,0.0,0.0
+Organ,0.0,0.0,0.0,0.0
+Electronic organ,0.0,0.0,0.0,0.0
+Hammond organ,0.0,0.0,0.0,0.0
+Synthesizer,0.0,0.0,0.0,0.0
+Sampler,0.0,0.0,0.0,0.0
+Harpsichord,0.0,0.0,0.0,0.0
+Percussion,0.0,0.0,0.0,0.0517
+Drum kit,0.0,0.0,0.0,0.0
+Drum machine,0.0,0.0,0.0,0.0
+Drum,0.0,0.0,0.0,0.0517
+Snare drum,0.0,0.0,0.0,0.0
+Rimshot,0.0,0.0,0.0,0.0
+Drum roll,0.0,0.0,0.0,0.0
+Bass drum,0.0,0.0,0.0,0.0
+Timpani,0.0,0.0,0.0,0.0
+Tabla,0.0,0.0,0.0,0.0
+Cymbal,0.0,0.0,0.0,0.0
+Hi-hat,0.0,0.0,0.0,0.0
+Wood block,0.0,0.0,0.0,0.0
+Tambourine,0.0,0.0,0.0,0.0
+Rattle (instrument),0.0,0.0,0.0,0.0
+Maraca,0.0,0.0,0.0,0.0
+Gong,0.0,0.0,0.0,0.0
+Tubular bells,0.0,0.0,0.0,0.0
+Mallet percussion,0.0,0.0,0.0,0.0
+"Marimba, xylophone",0.0,0.0,0.0,0.0
+Glockenspiel,0.0,0.0,0.0,0.0
+Vibraphone,0.0,0.0,0.0,0.0
+Steelpan,0.0,0.0,0.0,0.0
+Orchestra,0.0,0.0,0.0,0.0
+Brass instrument,0.0,0.0,0.0,0.0
+French horn,0.0,0.0,0.0,0.0
+Trumpet,0.0,0.0,0.0,0.0
+Trombone,0.0,0.0,0.0,0.0
+Bowed string instrument,0.0,0.0,0.0,0.0
+String section,0.0,0.0,0.0,0.0
+"Violin, fiddle",0.0,0.0,0.0,0.0
+Pizzicato,0.0,0.0,0.0,0.0
+Cello,0.0,0.0,0.0,0.0
+Double bass,0.0,0.0,0.0,0.0
+"Wind instrument, woodwind instrument",0.0,0.0,0.0,0.0
+Flute,0.0,0.0,0.0,0.0
+Saxophone,0.0,0.0,0.0,0.0
+Clarinet,0.0,0.0,0.0,0.0
+Harp,0.0,0.0,0.0,0.0
+Bell,0.0,0.0,0.0536,0.0
+Church bell,0.0,0.0,0.0,0.0
+Jingle bell,0.0,0.0,0.0,0.0
+Bicycle bell,0.0,0.0,0.0,0.0
+Tuning fork,0.0,0.0,0.0,0.0
+Chime,0.0,0.0,0.0,0.0
+Wind chime,0.0,0.0,0.1071,0.0
+Change ringing (campanology),0.0,0.0,0.0,0.0
+Harmonica,0.0,0.0,0.0,0.0
+Accordion,0.0,0.0,0.0,0.0
+Bagpipes,0.0,0.0,0.0,0.0
+Didgeridoo,0.0,0.0,0.0,0.0
+Shofar,0.0,0.0,0.0,0.0
+Theremin,0.0,0.0,0.0,0.0
+Singing bowl,0.0,0.0,0.0,0.0
+Scratching (performance technique),0.0,0.0,0.0,0.0
+Pop music,0.0,0.0,0.0,0.0
+Hip hop music,0.0,0.0,0.0,0.0
+Beatboxing,0.0,0.0,0.0,0.0
+Rock music,0.0,0.0,0.0,0.0
+Heavy metal,0.0,0.0,0.0,0.0
+Punk rock,0.0,0.0,0.0,0.0
+Grunge,0.0,0.0,0.0,0.0
+Progressive rock,0.0,0.0,0.0,0.0
+Rock and roll,0.0,0.0,0.0,0.0
+Psychedelic rock,0.0,0.0,0.0,0.0
+Rhythm and blues,0.0,0.0,0.0,0.0
+Soul music,0.0,0.0,0.0,0.0
+Reggae,0.0,0.0,0.0,0.0
+Country,0.0,0.0,0.0,0.0
+Swing music,0.0,0.0,0.0,0.0
+Bluegrass,0.0,0.0,0.0,0.0
+Funk,0.0,0.0,0.0,0.0
+Folk music,0.0,0.0,0.0,0.0
+Middle Eastern music,0.0,0.0,0.0,0.0
+Jazz,0.0,0.0,0.0,0.0
+Disco,0.0,0.0,0.0,0.0
+Classical music,0.0,0.0,0.0,0.0
+Opera,0.0,0.0,0.0,0.0
+Electronic music,0.0,0.0,0.0,0.0
+House music,0.0,0.0,0.0,0.0
+Techno,0.0,0.0,0.0,0.0
+Dubstep,0.0,0.0,0.0,0.0
+Drum and bass,0.0,0.0,0.0,0.0
+Electronica,0.0,0.0,0.0,0.0
+Electronic dance music,0.0,0.0,0.0,0.0
+Ambient music,0.0,0.0,0.0,0.0
+Trance music,0.0,0.0,0.0,0.0
+Music of Latin America,0.0,0.0,0.0,0.0
+Salsa music,0.0,0.0,0.0,0.0
+Flamenco,0.0,0.0,0.0,0.0
+Blues,0.0,0.0,0.0,0.0
+Music for children,0.0,0.0,0.0,0.0
+New-age music,0.0,0.0,0.0,0.0
+Vocal music,0.0,0.0,0.0,0.0
+A capella,0.0,0.0,0.0,0.0
+Music of Africa,0.0,0.0,0.0,0.0
+Afrobeat,0.0,0.0,0.0,0.0
+Christian music,0.0,0.0,0.0,0.0
+Gospel music,0.0,0.0,0.0,0.0
+Music of Asia,0.0,0.0,0.0,0.0
+Carnatic music,0.0,0.0,0.0,0.0
+Music of Bollywood,0.0,0.0,0.0,0.0
+Ska,0.0,0.0,0.0,0.0
+Traditional music,0.0,0.0,0.0,0.0
+Independent music,0.0,0.0,0.0,0.0
+Song,0.0,0.0,0.0,0.0
+Background music,0.0,0.0,0.0,0.0
+Theme music,0.0,0.0,0.0,0.0
+Jingle (music),0.0,0.0,0.0,0.0
+Soundtrack music,0.0,0.0,0.0,0.0
+Lullaby,0.0,0.0,0.0,0.0
+Video game music,0.0,0.0,0.0,0.0
+Christmas music,0.0,0.0,0.0,0.0
+Dance music,0.0,0.0,0.0,0.0
+Wedding music,0.0,0.0,0.0,0.0
+Happy music,0.0,0.0,0.0,0.0
+Funny music,0.0,0.0,0.0,0.0
+Sad music,0.0,0.0,0.0,0.0
+Tender music,0.0,0.0,0.0,0.0
+Exciting music,0.0,0.0,0.0,0.0
+Angry music,0.0,0.0,0.0,0.0
+Scary music,0.0,0.0,0.0,0.0
+Wind,0.0,0.0,0.0,0.0
+Rustling leaves,0.0,0.0205,0.0,0.0517
+Wind noise (microphone),0.0,0.0719,0.0,0.0
+Thunderstorm,0.0,0.0,0.0,0.0
+Thunder,0.0,0.0205,0.0,0.0
+Water,0.0,0.0,0.0,1.0345
+Rain,0.0,0.0,0.0,0.0
+Raindrop,0.0,0.0,0.0,0.0
+Rain on surface,0.0,0.0308,0.0,0.0
+Stream,0.0,0.0,0.0,0.0
+Waterfall,0.0,0.0,0.0,0.0
+Ocean,0.0,0.0103,0.0,0.0
+"Waves, surf",0.0,0.0,0.0,0.0
+Steam,0.0,0.0,0.0,0.0
+Gurgling,0.0,0.0205,0.0,0.4655
+Fire,0.0,0.0,0.0,0.0
+Crackle,0.0,0.0,0.0,0.0517
+Vehicle,0.0,13.9418,0.5357,0.4138
+"Boat, Water vehicle",0.0,0.0308,0.0,0.0
+"Sailboat, sailing ship",0.0,0.0,0.0,0.0
+"Rowboat, canoe, kayak",0.0,0.0,0.0,0.0517
+"Motorboat, speedboat",0.0,0.0,0.0,0.0
+Ship,0.0,0.0205,0.0,0.0
+Motor vehicle (road),0.0,0.0,0.0,0.0
+Car,0.0,3.4829,0.0,0.0
+"Vehicle horn, car horn, honking",0.0,0.0,0.0,0.0
+Toot,0.0,0.0,0.0,0.0
+Car alarm,0.0,0.0,0.0,0.0
+"Power windows, electric windows",0.0,0.0,0.0,0.0
+Skidding,0.0,0.0,0.0,0.0
+Tire squeal,0.0,0.0,0.0,0.0
+Car passing by,0.0,0.0103,0.0,0.0
+"Race car, auto racing",0.0,0.0,0.0,0.0
+Truck,0.0,0.0514,0.0,0.0
+Air brake,0.0,0.0103,0.0,0.0
+"Air horn, truck horn",0.0,0.0,0.0,0.0
+Reversing beeps,0.0,0.0,0.0,0.0
+"Ice cream truck, ice cream van",0.0,0.0,0.0,0.0
+Bus,0.0,2.0959,0.0,0.0
+Emergency vehicle,0.0,0.0103,0.0,0.0
+Police car (siren),0.0,0.0,0.0,0.0
+Ambulance (siren),0.0,0.0,0.0,0.0
+"Fire engine, fire truck (siren)",0.0,0.0205,0.0,0.0
+Motorcycle,0.0,0.0,0.0,0.0
+"Traffic noise, roadway noise",0.0,0.0,0.0,0.0
+Rail transport,0.0,0.0,0.0,0.0
+Train,0.0,1.089,0.0,0.0517
+Train whistle,0.0,0.0,0.0,0.0
+Train horn,0.0,0.0,0.0,0.0
+"Railroad car, train wagon",0.0,0.0103,0.0,0.0
+Train wheels squealing,0.0,0.0,0.0,0.0
+"Subway, metro, underground",0.0,0.0205,0.0,0.0
+Aircraft,0.0,0.0103,0.0,0.0
+Aircraft engine,0.0,0.0,0.0,0.0
+Jet engine,0.0,0.0,0.0,0.0
+"Propeller, airscrew",0.0,0.0,0.0,0.0
+Helicopter,0.0,0.0,0.0,0.0
+"Fixed-wing aircraft, airplane",0.0,0.0,0.0,0.0
+Bicycle,0.0,0.0103,0.0,0.0
+Skateboard,0.0,0.0,0.0,0.0
+Engine,0.0,0.0,0.0,0.0
+Light engine (high frequency),0.0,0.0,0.0,0.0
+"Dental drill, dentist's drill",0.0,0.0,0.0,0.0
+Lawn mower,0.0,0.0,0.0,0.0
+Chainsaw,0.0,0.0,0.0,0.0
+Medium engine (mid frequency),0.0,0.0,0.0,0.0
+Heavy engine (low frequency),0.0,0.0,0.0,0.0
+Engine knocking,0.0,0.0,0.0,0.0
+Engine starting,0.0,0.0,0.0,0.0
+Idling,0.0,0.0,0.0,0.0
+"Accelerating, revving, vroom",0.0,0.0103,0.0,0.0
+Door,2.5556,0.2774,0.4821,6.7241
+Doorbell,0.0,0.0,0.0,0.0
+Ding-dong,0.0,0.0,0.0,0.0
+Sliding door,2.4444,0.4623,0.75,2.6897
+Slam,0.0,0.0,0.0,0.2586
+Knock,0.0,0.0103,0.0,0.1034
+Tap,1.3889,0.0616,0.0536,0.2586
+Squeak,0.0,0.0,0.0,0.0
+Cupboard open or close,0.0,0.0,0.0,0.0
+Drawer open or close,0.0,0.0,0.0,0.1034
+"Dishes, pots, and pans",0.0,0.0,0.3214,1.3448
+"Cutlery, silverware",0.0,0.0,0.0,0.4138
+Chopping (food),0.0,0.0,0.0,0.0
+Frying (food),0.0,0.0,0.0,0.0
+Microwave oven,0.0,0.0103,0.0,0.0517
+Blender,0.0,0.0,0.0,0.1034
+"Water tap, faucet",0.0,0.0,0.0,0.3621
+Sink (filling or washing),0.0,0.0,0.0,0.0
+Bathtub (filling or washing),0.0,0.0,0.0,0.0
+Hair dryer,0.0,0.0,0.0,0.0
+Toilet flush,0.0,0.0,0.0,0.0
+Toothbrush,0.0,0.0,0.0,0.0
+Electric toothbrush,0.0,0.0,0.0,0.0
+Vacuum cleaner,0.0,0.0,0.0,0.2586
+Zipper (clothing),0.0,0.0103,0.0,0.0
+Keys jangling,0.0,0.0,0.0,0.0
+Coin (dropping),0.0,0.0,0.0,0.0
+Scissors,0.0,0.0,0.0,0.0
+"Electric shaver, electric razor",0.0,0.0,0.0,0.0
+Shuffling cards,0.0,0.0,0.0,0.0
+Typing,0.2778,0.0,0.0,0.2586
+Typewriter,0.0,0.0,0.0,0.0
+Computer keyboard,0.5,0.0,0.0,0.1552
+Writing,0.0,0.0,0.0,0.0517
+Alarm,0.0,0.0,0.0,0.0
+Telephone,0.0,0.0,0.0,0.0
+Telephone bell ringing,0.0,0.0,0.0,0.0
+Ringtone,0.0,0.0,0.0,0.0
+"Telephone dialing, DTMF",0.0,0.0,0.0,0.0
+Dial tone,0.0,0.0,0.0,0.0
+Busy signal,0.0,0.0,0.0,0.0
+Alarm clock,0.0,0.0,0.0,0.0
+Siren,0.0,0.0205,0.0,0.0
+Civil defense siren,0.0,0.0,0.0,0.0
+Buzzer,0.0,0.0,0.0,0.0
+"Smoke detector, smoke alarm",0.0,0.0,0.0,0.0
+Fire alarm,0.0,0.0,0.0,0.0
+Foghorn,0.0,0.0,0.0,0.0
+Whistle,0.0,0.0103,0.0,0.0
+Steam whistle,0.0,0.0,0.0,0.0
+Mechanisms,0.0556,0.0103,0.0,0.0
+"Ratchet, pawl",0.0,0.0,0.0,0.0
+Clock,0.0,0.0,0.0,0.0
+Tick,2.1111,0.0616,0.1071,0.2069
+Tick-tock,0.8333,0.0822,0.4821,0.2586
+Gears,0.0556,0.0,0.0,0.0
+Pulleys,0.0,0.0,0.0,0.0
+Sewing machine,0.0,0.0,0.0,0.0
+Mechanical fan,0.0,0.0,0.0,0.0
+Air conditioning,0.0,0.0,0.0,0.0
+Cash register,0.0,0.0,0.0,0.0
+Printer,0.0,0.0308,0.0536,0.1552
+Camera,0.0,0.0,0.0,0.0
+Single-lens reflex camera,0.0,0.0,0.0,0.0
+Tools,0.0,0.0,0.0,0.0
+Hammer,0.0,0.0,0.0,0.0517
+Jackhammer,0.0,0.0,0.0,0.0
+Sawing,0.0,0.0,0.0,0.0
+Filing (rasp),0.0,0.0,0.0,0.0
+Sanding,0.0,0.0,0.0,0.0
+Power tool,0.0,0.0,0.0,0.0
+Drill,0.0,0.0,0.0,0.0
+Explosion,0.0,0.0514,0.0,0.0
+"Gunshot, gunfire",0.0,0.0,0.0,0.0
+Machine gun,0.0,0.0,0.0,0.0
+Fusillade,0.0,0.0,0.0,0.0
+Artillery fire,0.0,0.0,0.0,0.0
+Cap gun,0.0,0.0,0.0,0.0
+Fireworks,0.0,0.0,0.0,0.0
+Firecracker,0.0,0.0,0.0,0.0
+"Burst, pop",0.0,0.0,0.0,0.0
+Eruption,0.0,0.0103,0.0,0.0
+Boom,0.0,0.0,0.0,0.0
+Wood,0.0,0.0,0.0,0.1552
+Chop,0.0,0.0,0.0,0.0
+Splinter,0.0,0.0,0.0,0.0
+Crack,0.0,0.0,0.0,0.0
+Glass,0.0,0.0,0.0,0.0
+"Chink, clink",0.0,0.0205,2.3036,0.2069
+Shatter,0.0,0.0,0.0,0.0
+Liquid,0.0,0.0,0.0,0.0
+"Splash, splatter",0.0,0.0,0.0,0.0
+Slosh,0.0,0.0,0.0,0.0
+Squish,0.0,0.0,0.0,0.0
+Drip,0.0,0.0,0.0536,0.1034
+Pour,0.0,0.0,0.0,0.0
+"Trickle, dribble",0.0,0.0,0.0,0.0
+Gush,0.0,0.0,0.0,0.0
+Fill (with liquid),0.0,0.0,0.0,0.0
+Spray,0.2222,0.0103,0.1071,0.0517
+Pump (liquid),0.0,0.0,0.0,0.0
+Stir,0.0,0.0,0.0,0.0
+Boiling,0.0,0.0,0.0,0.0
+Sonar,0.0,0.0,0.0,0.0
+Arrow,0.0,0.0,0.0,0.0
+"Whoosh, swoosh, swish",0.0,0.0,0.0,0.0
+"Thump, thud",0.0,0.0,0.0,0.0
+Thunk,0.0,0.0,0.0,0.0
+Electronic tuner,0.0,0.0,0.0,0.0
+Effects unit,0.0,0.0,0.0,0.0
+Chorus effect,0.0,0.0,0.0,0.0
+Basketball bounce,0.0,0.0,0.0,0.0
+Bang,0.0,0.0,0.0,0.0
+"Slap, smack",0.0,0.0,0.0,0.0
+"Whack, thwack",0.0,0.0,0.0,0.0
+"Smash, crash",0.0,0.0,0.0,0.0
+Breaking,0.0,0.0,0.0,0.0
+Bouncing,0.0,0.0,0.0,0.0
+Whip,0.0,0.0103,0.0,0.0
+Flap,0.0,0.0,0.0,0.0
+Scratch,0.0,0.0,0.0,0.0
+Scrape,0.0,0.0,0.0,0.0
+Rub,0.0,0.0,0.0,0.2586
+Roll,0.0,0.0,0.0,0.0
+Crushing,0.0,0.0,0.0,0.0
+"Crumpling, crinkling",0.0,0.0,0.0,0.0
+Tearing,0.0,0.0,0.0,0.0
+"Beep, bleep",0.0,0.0514,0.0,0.0
+Ping,0.0556,0.0103,0.0,0.1034
+Ding,0.0,0.0,0.0,0.0
+Clang,0.0,0.0,0.0,0.0
+Squeal,0.0,0.0,0.0,0.0
+Creak,0.0,0.0,0.0,0.0
+Rustle,0.0,0.0,0.0,0.0
+Whir,0.0,0.0,0.0,0.0
+Clatter,0.0,0.0,0.0,0.0
+Sizzle,0.0,0.0,0.0,0.0
+Clicking,0.5556,0.0,0.0,0.0
+Clickety-clack,0.0,0.0,0.0,0.0
+Rumble,0.0,0.0205,0.0,0.0
+Plop,0.0,0.0,0.0,0.0
+"Jingle, tinkle",0.0,0.0,0.0,0.0
+Hum,0.0,0.0,0.0,0.0
+Zing,0.0,0.0,0.0,0.0
+Boing,0.0,0.0,0.0,0.0
+Crunch,0.0,0.0,0.0,0.0
+Silence,11.1111,1.0479,0.5893,1.8103
+Sine wave,0.3333,0.0,0.0,0.0517
+Harmonic,0.0,0.0,0.0,0.0
+Chirp tone,0.0,0.0,0.0,0.0
+Sound effect,0.0,0.0205,0.0,0.0
+Pulse,0.0,0.0,0.0,0.0
+"Inside, small room",8.9444,0.7295,1.5,9.1034
+"Inside, large room or hall",0.0,0.6575,1.0714,0.0517
+"Inside, public space",0.0,0.0514,0.375,0.0
+"Outside, urban or manmade",0.0,0.0925,0.1071,0.0
+"Outside, rural or natural",0.0,0.0,0.0,0.0
+Reverberation,0.0,0.0,0.0,0.0
+Echo,0.0,0.0,0.0,0.0
+Noise,0.0,0.0,0.0,0.0
+Environmental noise,0.0,0.0,0.0,0.0
+Static,0.0,0.0,0.0,0.0
+Mains hum,0.0,0.0,0.0,0.0
+Distortion,0.0,0.0,0.0,0.0
+Sidetone,0.0,0.0,0.0,0.0
+Cacophony,0.0,0.0,0.0,0.0
+White noise,0.4444,0.0822,0.0,0.2069
+Pink noise,0.0,0.0,0.0,0.0
+Throbbing,0.0,0.0,0.0,0.0
+Vibration,0.0,0.0205,0.0,0.0517
+Television,0.0,0.0,0.0,0.1034
+Radio,0.0,0.0,0.0,0.0
+Field recording,0.0,0.0,0.0,0.0
