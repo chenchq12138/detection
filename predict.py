@@ -126,33 +126,17 @@ def predict():
 
                 min = 0
                 min_scene = ""
-                if "Speech" in event_counts:
-                    print(event_counts["Speech"] / num * 18)
-                if "Speech" in event_counts and event_counts["Speech"] / num * 18 > 7:
-                    for scene in scenes:
-                        distance = 0
-                        for event in df['EventTypes'].tolist():
-                            if event in event_counts:
-                                count = event_counts[event]
-                            else:
-                                count = 0
-                            distance += (df.loc[df['EventTypes'] == event, scene].values[0] - count / num * 18)**2
-                        if(min == 0 or distance < min ):
-                            min = distance
-                            min_scene = scene
-                else:
-                    for scene in scenes:
-                        distance = 0
-                        for event in df['EventTypes'].tolist():
-                            if event != 'Speech':
-                                if event in event_counts:
-                                    count = event_counts[event]
-                                else:
-                                    count = 0
-                                distance += (df.loc[df['EventTypes'] == event, scene].values[0] / (36 - df.loc[df['EventTypes'] == "Speech", scene].values[0]) * 36 - count / num * 18)**2
-                        if(min == 0 or distance < min ):
-                            min = distance
-                            min_scene = scene
+                for scene in scenes:
+                    distance = 0
+                    for event in df['EventTypes'].tolist():
+                        if event in event_counts:
+                            count = event_counts[event]
+                        else:
+                            count = 0
+                        distance += (df.loc[df['EventTypes'] == event, scene].values[0] - count / num * 18)**2
+                    if(min == 0 or distance < min ):
+                        min = distance
+                        min_scene = scene
                 result[file] = min_scene
     return result
 
